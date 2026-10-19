@@ -1,0 +1,1 @@
+El número de pinzas es el esperado.
